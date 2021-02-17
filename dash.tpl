@@ -44,9 +44,9 @@
       }
     }
   },
-  "name": "My Dashboard",
+  "name": "MyDashboard",
   "type": "Microsoft.Portal/dashboards",
-  "location": "INSERT LOCATION",
+  "location": "centralus",
   "tags": {
     "hidden-title": "My Dashboard"
   },
